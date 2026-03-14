@@ -43,6 +43,8 @@
             this.cbMonth = new System.Windows.Forms.ComboBox();
             this.cbYear = new System.Windows.Forms.ComboBox();
             this.bntRegister = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.cbProgram = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -110,7 +112,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(33, 198);
+            this.label5.Location = new System.Drawing.Point(37, 186);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(64, 16);
             this.label5.TabIndex = 13;
@@ -120,7 +122,7 @@
             // 
             this.rbFemale.AutoSize = true;
             this.rbFemale.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbFemale.Location = new System.Drawing.Point(36, 217);
+            this.rbFemale.Location = new System.Drawing.Point(40, 205);
             this.rbFemale.Name = "rbFemale";
             this.rbFemale.Size = new System.Drawing.Size(72, 20);
             this.rbFemale.TabIndex = 14;
@@ -132,7 +134,7 @@
             // 
             this.rbMale.AutoSize = true;
             this.rbMale.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbMale.Location = new System.Drawing.Point(114, 217);
+            this.rbMale.Location = new System.Drawing.Point(118, 205);
             this.rbMale.Name = "rbMale";
             this.rbMale.Size = new System.Drawing.Size(55, 20);
             this.rbMale.TabIndex = 15;
@@ -144,7 +146,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(33, 253);
+            this.label6.Location = new System.Drawing.Point(33, 231);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(104, 16);
             this.label6.TabIndex = 16;
@@ -153,7 +155,7 @@
             // cbDay
             // 
             this.cbDay.FormattingEnabled = true;
-            this.cbDay.Location = new System.Drawing.Point(36, 272);
+            this.cbDay.Location = new System.Drawing.Point(36, 250);
             this.cbDay.Name = "cbDay";
             this.cbDay.Size = new System.Drawing.Size(61, 21);
             this.cbDay.TabIndex = 17;
@@ -162,7 +164,7 @@
             // cbMonth
             // 
             this.cbMonth.FormattingEnabled = true;
-            this.cbMonth.Location = new System.Drawing.Point(103, 272);
+            this.cbMonth.Location = new System.Drawing.Point(103, 250);
             this.cbMonth.Name = "cbMonth";
             this.cbMonth.Size = new System.Drawing.Size(61, 21);
             this.cbMonth.TabIndex = 18;
@@ -171,7 +173,7 @@
             // cbYear
             // 
             this.cbYear.FormattingEnabled = true;
-            this.cbYear.Location = new System.Drawing.Point(170, 272);
+            this.cbYear.Location = new System.Drawing.Point(170, 250);
             this.cbYear.Name = "cbYear";
             this.cbYear.Size = new System.Drawing.Size(61, 21);
             this.cbYear.TabIndex = 19;
@@ -183,7 +185,7 @@
             this.bntRegister.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bntRegister.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bntRegister.ForeColor = System.Drawing.Color.White;
-            this.bntRegister.Location = new System.Drawing.Point(36, 311);
+            this.bntRegister.Location = new System.Drawing.Point(36, 330);
             this.bntRegister.Name = "bntRegister";
             this.bntRegister.Size = new System.Drawing.Size(128, 26);
             this.bntRegister.TabIndex = 20;
@@ -191,12 +193,33 @@
             this.bntRegister.UseVisualStyleBackColor = false;
             this.bntRegister.Click += new System.EventHandler(this.button1_Click);
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Yi Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(33, 283);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(134, 16);
+            this.label7.TabIndex = 21;
+            this.label7.Text = "Program to apply*";
+            // 
+            // cbProgram
+            // 
+            this.cbProgram.FormattingEnabled = true;
+            this.cbProgram.Location = new System.Drawing.Point(36, 302);
+            this.cbProgram.Name = "cbProgram";
+            this.cbProgram.Size = new System.Drawing.Size(195, 21);
+            this.cbProgram.TabIndex = 22;
+            this.cbProgram.Text = "Select program";
+            // 
             // frmStudentRegistration
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(295, 358);
+            this.ClientSize = new System.Drawing.Size(295, 380);
+            this.Controls.Add(this.cbProgram);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.bntRegister);
             this.Controls.Add(this.cbYear);
             this.Controls.Add(this.cbMonth);
@@ -237,6 +260,7 @@
         private System.Windows.Forms.ComboBox cbMonth;
         private System.Windows.Forms.ComboBox cbYear;
         private System.Windows.Forms.Button bntRegister;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.ComboBox cbProgram;
     }
 }
-

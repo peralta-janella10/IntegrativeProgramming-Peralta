@@ -23,7 +23,8 @@ namespace StudentRegistrationApplication
             {
                 cbDay.Items.Add(d.ToString());
             }
-            for (int m = 1; m <= 12; m++)
+            string[] month = { "January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" };
+            foreach (string m in month)
             {
                 cbMonth.Items.Add(m.ToString());
             }
@@ -32,10 +33,21 @@ namespace StudentRegistrationApplication
             {
                 cbYear.Items.Add(y.ToString());
 
-        {
+                {
+                }
+                cbProgram.Items.Add("Select Program");
+                string[] program = { "Bachelor of Science in Computer Science", "Bacherlor of Science in Information Technology", "Bachelor Science in Information Systems ", "Bachelor Science in Computer Engineering" };
+
+                foreach (string course in program)
+                {
+                    cbProgram.Items.Add(course);
+                }
+                cbProgram.SelectedIndex = 0;
+
             }
         }
-    }
+    
+      
         private void button1_Click(object sender, EventArgs e)
         {
             string lastName = txtLastName.Text;
@@ -55,10 +67,10 @@ namespace StudentRegistrationApplication
             string day = cbDay.Text;
             string month = cbMonth.Text;
             string year = cbYear.Text;
+            string program = cbProgram.Text;
 
             MessageBox.Show(
-                "Student name: " + firstName + " " + middleName + " " + lastName + "\nGender: " + gender + "\nDate of birth: " + day + "/" + month + "/" + year
-            );
+                "Student name: " + firstName + " " + middleName + " " + lastName + "\nGender: " + gender + "\nDate of birth: " + day + "/" + month + "/" + year + "\nProgram:" + program);
         }
     }
 }
