@@ -1,0 +1,10 @@
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\06Qiuz1.csproj.AssemblyReference.cache
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\_06Qiuz1.Form1.resources
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\_06Qiuz1.Properties.Resources.resources
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\06Qiuz1.csproj.GenerateResource.cache
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\06Qiuz1.csproj.CoreCompileInputs.cache
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\bin\Debug\06Qiuz1.exe.config
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\bin\Debug\06Qiuz1.exe
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\bin\Debug\06Qiuz1.pdb
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\06Qiuz1.exe
+C:\Users\peral\source\repos\06Qiuz1\06Qiuz1\obj\Debug\06Qiuz1.pdb
