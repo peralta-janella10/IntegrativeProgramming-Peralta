@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentRegistrationApplication03/1.0.0": {
+        "runtime": {
+          "StudentRegistrationApplication03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentRegistrationApplication03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

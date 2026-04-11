@@ -1,0 +1,16 @@
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication.frmStudentRegistration.resources
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.csproj.GenerateResource.cache
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.AssemblyInfoInputs.cache
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.AssemblyInfo.cs
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.csproj.CoreCompileInputs.cache
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\bin\Debug\net8.0-windows\StudentRegistrationApplication03.exe
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\bin\Debug\net8.0-windows\StudentRegistrationApplication03.deps.json
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\bin\Debug\net8.0-windows\StudentRegistrationApplication03.runtimeconfig.json
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\bin\Debug\net8.0-windows\StudentRegistrationApplication03.dll
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\bin\Debug\net8.0-windows\StudentRegistrationApplication03.pdb
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.dll
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\refint\StudentRegistrationApplication03.dll
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.pdb
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\StudentRegistrationApplication03.genruntimeconfig.cache
+C:\Users\peralta.420141\source\repos\StudentRegistrationApplication03\StudentRegistrationApplication03\obj\Debug\net8.0-windows\ref\StudentRegistrationApplication03.dll
