@@ -1,0 +1,17 @@
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\bin\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.exe
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\bin\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.deps.json
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\bin\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.runtimeconfig.json
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\bin\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.dll
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\bin\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.pdb
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.Form1.resources
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.AssemblyInfo.cs
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.dll
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\refint\Peralta_StudentGradeAnalyzer.dll
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.pdb
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.genruntimeconfig.cache
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\ref\Peralta_StudentGradeAnalyzer.dll
+C:\Users\peral\source\repos\Peralta_StudentGradeAnalyzer\Peralta_StudentGradeAnalyzer\obj\Debug\net10.0-windows\Peralta_StudentGradeAnalyzer.Properties.Resources.resources
