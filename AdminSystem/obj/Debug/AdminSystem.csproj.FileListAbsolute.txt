@@ -1,0 +1,10 @@
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\bin\Debug\AdminSystem.exe.config
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\bin\Debug\AdminSystem.exe
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\bin\Debug\AdminSystem.pdb
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.csproj.AssemblyReference.cache
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.Properties.Resources.resources
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.csproj.GenerateResource.cache
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.csproj.CoreCompileInputs.cache
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.exe
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.pdb
+C:\Users\peral\source\repos\AdminSystem\AdminSystem\obj\Debug\AdminSystem.frmAdministrator.resources
