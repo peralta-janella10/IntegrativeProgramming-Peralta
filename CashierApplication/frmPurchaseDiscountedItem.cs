@@ -12,7 +12,7 @@ namespace CashierApplication
 {
     public partial class frmPurchaseDiscountedItem : Form
     {
-      
+
 
         public frmPurchaseDiscountedItem()
         {
@@ -21,7 +21,7 @@ namespace CashierApplication
 
         private void label4_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void btnCompute_Click(object sender, EventArgs e)
@@ -51,6 +51,28 @@ namespace CashierApplication
             DiscountedItem di = new DiscountedItem(name, price, quantity, discount);
             di.setPayment(payment);
             Change.Text = di.getChange().ToString("F2");
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmLoginAccount loginForm = new frmLoginAccount();
+            loginForm.Show();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+
+            DialogResult result = MessageBox.Show("Are you sure you want to exit?",
+                          "Exit Application",
+                          MessageBoxButtons.YesNo,
+                          MessageBoxIcon.Question);
+
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }
